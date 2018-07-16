@@ -6,6 +6,8 @@ AIwriter06 BP
 ##  参考资料
 [BP知识点运用指南](https://github.com/AIWriter/Writer006/wiki/HBPKnowledgePoint#%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%85%E4%BA%8B%E8%AE%B2%E5%BE%97%E5%A6%82%E4%BD%95)
 
+[制作app演示界面工具](https://www.interaction-design.org/literature/article/don-t-build-it-fake-it-first-prototyping-for-mobile-apps)
+
 ## 大致的时间线
 
 6w:
